@@ -4,3 +4,13 @@ body {
     background-image: url("images/hacker_bg.jpg");
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+h1 {
+    color: #0702AB;
+    font-style: italic;
+}
+
+h2 {
+    color: #30E004;
+    font-weight: 700;
+}
