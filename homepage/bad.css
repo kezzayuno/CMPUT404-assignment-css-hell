@@ -1,4 +1,5 @@
 /* Attribution-NonCommercial-NoDerivatives 4.0 International Kezziah Camille Ayuno */
+/* https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp */
 
 body {
     background-image: url("images/hacker_bg.jpg");
@@ -14,3 +15,30 @@ h2 {
     color: #30E004;
     font-weight: 700;
 }
+
+h3 {
+    color: #EA6134;
+    font-weight: 500;
+    font-style: italic;
+}
+
+p {
+    background-color: #CD5CCD;
+    color: #34EA34;
+}
+
+img {
+    box-shadow: 4px 4px 2px #34EAD4;
+}
+
+.sidebar {
+    height: auto;
+    width: fit-content;
+    position: fixed;
+    overflow-x: hidden;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #34EAD4;
+}
+
