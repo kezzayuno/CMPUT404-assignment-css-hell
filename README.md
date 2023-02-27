@@ -1,6 +1,25 @@
 Assignment: CSS Hell
 ====================
 
+Part I: Gutenberg Changes
+====================
+
+I moved the styles from the HTML file into
+an external CSS file which all three of the files
+are styled by. 
+
+I then chose one standard font-family plus a 
+yellowish old paper background for the webpage. 
+
+For the paragraph styling, I made it have a text-indent
+since many books have that typically. 
+
+For the header tags, I ranked them by size using
+font-size and font-weight (with h1 and h2 being the biggest and heaviest). 
+
+For the img tags, I made them centered to the webpage and also bordered with a brown outline then a slight box-shadow. 
+====================
+
 You will skin 3 project gutenberg stories with custom CSS.
 
 You will skin 2 versions of a possible professional homepage for your
